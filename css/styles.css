@@ -37,14 +37,13 @@ h1 {
   line-height: 1.25em;
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(0, -50%);
 }
 
 .container p {
   margin: 0 25px;
   margin-bottom: 25px;
-  font-size: 1.15em;
+  font-size: 1.1em;
 }
 
 .filter {
@@ -60,10 +59,20 @@ select {
 
 @media (min-width: 768px) {
   .container {
-    margin: 50px auto;
+    margin: 75px auto;
+  }
+
+  .container p {
+    margin-bottom: 35px;
   }
 
   h1 {
-    font-size: 4vw;
+    font-size: 5vw;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container p {
+    font-size: 1.2em;
   }
 }
