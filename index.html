@@ -4,27 +4,68 @@
   <title>Project 4</title>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
   <meta charset="utf-8">
-  <link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Heebo|Bungee+Shade:400" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
-  <header class="container">
-    <h1>Franklin Street Restaurant Changes</h1>
+  <header>
+    <h1>Franklin Street Restaurants</h1>
   </header>
   <div class="container">
-    <p>Franklin Street is home to over 100 restaurants frequented often by Chapel Hill and Carrboro dwellers as well as UNC students. The collection of restaurants represents a wide range of cuisines, including American, Mexican, Chinese and Indian food.</p>
+    <p>Franklin Street is home to over 100 restaurants frequented often by Chapel Hill and Carrboro dwellers as well as UNC students. The collection of restaurants represents a wide range of cuisines, including American, Mexican, Chinese and Indian food. The most popular food to get on Franklin St. are burgers and pizza with 12 burger joints and 11 pizza places to choose from.</p>
+    <p>According to the Downtown Chapel Hill Partnership, the number of open businesses on Franklin Street from January 2013 to January 2018 had a retention rate of 75.6 percent for the 5-year period. This means that one-fourth of the restaurants on Franklin St. closed in just five years.</p>
+    <p>There are two restaurants on Franklin Street that are significantly older than any other restaurants: Carolina Coffee Shop and Sutton's Drug Store. Carolina Coffee Shop was founded in 1922 and Sutton's opened shortly afterwards in 1923. Apart from these two, the other restaurants only go back as far as the 1970's, with Ye Olde Waffle Shop, which opened in 1973, as the next oldest restaurant. </p>
   </div>
   <div id="map" style="height: 400px;">
   <!---Google Map will go here--->
-
+  </div>
+  <div class="filter">
+    <h3>Filter by Cuisine</h3>
+    <select id="type" onchange="filterMarkers(this.value);">
+      <option value="">Please select category</option>
+      <option value="American">American</option>
+      <option value="Asian">Asian</option>
+      <option value="Bar Food">Bar Food</option>
+      <option value="BBQ">BBQ</option>
+      <option value="Breakfast">Breakfast</option>
+      <option value="Burger">Burger</option>
+      <option value="Chinese">Chinese</option>
+      <option value="Coffee and Tea">Coffee and Tea</option>
+      <option value="Desserts">Desserts</option>
+      <option value="Diner">Diner</option>
+      <option value="Fast Food">Fast Food</option>
+      <option value="French">French</option>
+      <option value="Greek">Greek</option>
+      <option value="Indian">Indian</option>
+      <option value="International">International</option>
+      <option value="Italian">Italian</option>
+      <option value="Japanese">Japanese</option>
+      <option value="Lebanese">Lebanese</option>
+      <option value="Mediterranean">Mediterranean</option>
+      <option value="Mexican">Mexican</option>
+      <option value="Middle Eastern">Middle Eastern</option>
+      <option value="Pizza">Pizza</option>
+      <option value="Salad">Salad</option>
+      <option value="Sandwich">Sandwich</option>
+      <option value="Seafood">Seafood</option>
+      <option value="Southern">Southern</option>
+      <option value="Southwestern">Southwestern</option>
+      <option value="Sushi">Sushi</option>
+      <option value="Tapas">Tapas</option>
+      <option value="Tex-Mex">Tex-Mex</option>
+      <option value="Thai">Thai</option>
+      <option value="Turkish">Turkish</option>
+      <option value="Vegetarian">Vegetarian</option>
+      <option value="Vietnamese">Vietnamese</option>
+    </select>
   </div>
   <div class="container">
-    <p>The most popular food to get on Franklin St. are burgers and pizza with 12 burger joints and 11 pizza places to choose from.</p>
+    <p>Some of the newest restaurants to join the Franklin Street scene include The Pizza Press, Hops Burger Bar, Midici, Lula's and Cha House. </p>
   </div>
   <footer class="container">
     <p>Sources: Zomato API, Google Maps API, Yellow Pages</p>
   </footer>
-  
+
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="js/scripts.js"></script>
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCscQvyR637VWxxIHjT37qo2EPGKzogoTc&callback=initMap"></script>

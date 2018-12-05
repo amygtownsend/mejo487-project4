@@ -10,13 +10,60 @@ html, body {
 }
 
 .container {
-  margin: 25px;
+  margin: 25px auto;
+  max-width: 940px;
 }
 
-h1, h2, p {
+h1, h2, h3, p {
   margin: 0;
 }
 
+header {
+  position: relative;
+  height: 100%;
+  background-image: url(../img/franklinst.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 2.5em;
+  font-family: 'Bungee Shade', serif;
+  font-weight: 400;
+  line-height: 1.25em;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .container p {
-  margin-bottom: 15px;
+  margin: 0 25px;
+  margin-bottom: 25px;
+  font-size: 1.15em;
+}
+
+.filter {
+  text-align: center;
+  padding-top: 15px;
+}
+
+select {
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    margin: 50px auto;
+  }
+
+  h1 {
+    font-size: 4vw;
+  }
 }
