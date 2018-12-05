@@ -2,17 +2,31 @@
 <html>
 <head>
   <title>Project 4</title>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Heebo" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
-  <div id="results">
-  <!---content will go here--->
+  <header class="container">
+    <h1>Franklin Street Restaurant Changes</h1>
+  </header>
+  <div class="container">
+    <p>Franklin Street is home to over 100 restaurants frequented often by Chapel Hill and Carrboro dwellers as well as UNC students. The collection of restaurants represents a wide range of cuisines, including American, Mexican, Chinese and Indian food.</p>
+  </div>
+  <div id="map" style="height: 400px;">
+  <!---Google Map will go here--->
 
   </div>
-
-
-  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="crossorigin="anonymous"></script>
-  <script src="js/config.js"></script>
+  <div class="container">
+    <p>The most popular food to get on Franklin St. are burgers and pizza with 12 burger joints and 11 pizza places to choose from.</p>
+  </div>
+  <footer class="container">
+    <p>Sources: Zomato API, Google Maps API, Yellow Pages</p>
+  </footer>
+  
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="js/scripts.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCscQvyR637VWxxIHjT37qo2EPGKzogoTc&callback=initMap"></script>
 </body>
 </html>
