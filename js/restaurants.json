@@ -2796,8 +2796,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9117592000",
-          "longitude": "-79.0715151000",
+          "latitude": "35.911404",
+          "longitude": "-79.071203",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2883,8 +2883,8 @@
       "restaurant": {
         "name": "MidiCi Italian Kitchen",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912948",
+          "longitude": "-79.055361"
         },
         "cuisines": ["Pizza", "Italian", "Bar Food"],
         "year_founded": "2018"
@@ -2894,8 +2894,8 @@
       "restaurant": {
         "name": "Sawasdee Thai",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913647",
+          "longitude": "-79.055772"
         },
         "cuisines": ["Thai", "Japanese"],
         "year_founded": "2015"
@@ -2905,8 +2905,8 @@
       "restaurant": {
         "name": "Moe's Southwest Grill",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913190",
+          "longitude": "-79.056558"
         },
         "cuisines": ["Mexican", "Tex-Mex"],
         "year_founded": "2015"
@@ -2916,8 +2916,8 @@
       "restaurant": {
         "name": "The Pizza Press",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912180",
+          "longitude": "-79.057575"
         },
         "cuisines": ["Pizza", "Salad"],
         "year_founded": "2018"
@@ -2927,8 +2927,8 @@
       "restaurant": {
         "name": "Lula's",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913377",
+          "longitude": "-79.055682"
         },
         "cuisines": ["Southern", "Sandwiches"],
         "year_founded": "2018"
@@ -2938,8 +2938,8 @@
       "restaurant": {
         "name": "Trolly Stop Hot Dogs",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913277",
+          "longitude": "-79.056287"
         },
         "cuisines": ["Burgers", "Hot Dogs"],
         "year_founded": "2015"
@@ -2949,8 +2949,8 @@
       "restaurant": {
         "name": "Frutta Bowls",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912558",
+          "longitude": "-79.057763"
         },
         "cuisines": ["Juice Bars & Smoothies", "Acai Bowls"],
         "year_founded": "2018"
@@ -2960,8 +2960,8 @@
       "restaurant": {
         "name": "Heavenly Buffaloes",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910815",
+          "longitude": "-79.060805"
         },
         "cuisines": ["Chicken Wings", "Vegan", "Bar Food"],
         "year_founded": "2018"
@@ -2971,8 +2971,8 @@
       "restaurant": {
         "name": "B.GOOD",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912220",
+          "longitude": "-79.057406"
         },
         "cuisines": ["Wraps","Sandwiches"],
         "year_founded": "2018"
@@ -2982,8 +2982,8 @@
       "restaurant": {
         "name": "Might As Well Bar & Grill",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912372",
+          "longitude": "-79.058886"
         },
         "cuisines": ["American", "Bar Food"],
         "year_founded": "2017"
@@ -2993,8 +2993,8 @@
       "restaurant": {
         "name": "Blue Dogwood Public Market",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912237",
+          "longitude": "-79.060148"
         },
         "cuisines": ["Specialty Food"],
         "year_founded": "2018"
@@ -3004,8 +3004,8 @@
       "restaurant": {
         "name": "Ice & Lab",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911094",
+          "longitude": "-79.060670"
         },
         "cuisines": ["Desserts"],
         "year_founded": "2018"
@@ -3015,8 +3015,8 @@
       "restaurant": {
         "name": "Perennial",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911050",
+          "longitude": "-79.060566"
         },
         "cuisines": ["Coffee & Tea"],
         "year_founded": "2017"
@@ -3026,8 +3026,8 @@
       "restaurant": {
         "name": "McDonald's",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910777",
+          "longitude": "-79.061157"
         },
         "cuisines": ["Fast Food", "Burgers", "Coffe & Tea"],
         "year_founded": "1973"
@@ -3037,8 +3037,8 @@
       "restaurant": {
         "name": "Tin Cup Joe",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910270",
+          "longitude": "-79.064250"
         },
         "cuisines": ["Coffee & Tea"],
         "year_founded": "2016"
@@ -3048,8 +3048,8 @@
       "restaurant": {
         "name": "Hops Burger Bar",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.912522",
+          "longitude": "-79.057879"
         },
         "cuisines": ["Salad", "Burgers", "Sandwiches"],
         "year_founded": "2018"
@@ -3059,8 +3059,8 @@
       "restaurant": {
         "name": "Cha House",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911520",
+          "longitude": "-79.060667"
         },
         "cuisines": ["Coffee & Tea", "Taiwanese", "Bubble Tea"],
         "year_founded": "2018"
@@ -3070,8 +3070,8 @@
       "restaurant": {
         "name": "Ms. Mong",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.914133",
+          "longitude": "-79.053701"
         },
         "cuisines": ["Asian Fusion", "Mongolian", "BBQ"],
         "year_founded": "2015"
@@ -3079,21 +3079,10 @@
     },
     {
       "restaurant": {
-        "name": "Meet Fresh",
-        "location": {
-          "latitude": "",
-          "longitude": "",
-        },
-        "cuisines": ["Desserts"],
-        "year_founded": "2018"
-      }
-    },
-    {
-      "restaurant": {
         "name": "Spike's Hot Chicken and Dogs",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910390",
+          "longitude": "-79.067416"
         },
         "cuisines": ["Southern", "Hot Dogs"],
         "year_founded": "2018"
@@ -3103,8 +3092,8 @@
       "restaurant": {
         "name": "Hibachi & Company",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913976",
+          "longitude": "-79.053979"
         },
         "cuisines": ["Japanese"],
         "year_founded": "2018"
@@ -3112,10 +3101,10 @@
     },
     {
       "restaurant": {
-        "name": "Roots",
+        "name": "Roots Bistro & Bar",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.914174",
+          "longitude": "-79.053814"
         },
         "cuisines": ["Breakfast & Brunch", "Latin American", "American"],
         "year_founded": "2015"
@@ -3125,8 +3114,8 @@
       "restaurant": {
         "name": "Tama Cafe",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913576",
+          "longitude": "-79.055580"
         },
         "cuisines": ["Coffee & Tea"],
         "year_founded": "2017"
@@ -3136,8 +3125,8 @@
       "restaurant": {
         "name": "Yaya Tea",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.914102",
+          "longitude": "-79.054034"
         },
         "cuisines": ["Bubble Tea", "Coffee & Tea", "Japanese"],
         "year_founded": "2018"
@@ -3147,8 +3136,8 @@
       "restaurant": {
         "name": "BonChon",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.914615",
+          "longitude": "-79.052675"
         },
         "cuisines": ["Korean", "Chicken Wings"],
         "year_founded": "2018"
@@ -3158,19 +3147,19 @@
       "restaurant": {
         "name": "Grk Yeero",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.914282",
+          "longitude": "-79.053543"
         },
         "cuisines": ["Mediterranean", "Greek"],
         "year_founded": "2017"
       }
-    }
+    },
     {
       "restaurant": {
         "name": "Vecino Brewing Co.",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910141",
+          "longitude": "-79.068769"
         },
         "cuisines": ["Sandwiches"],
         "year_founded": "2018"
@@ -3180,8 +3169,8 @@
       "restaurant": {
         "name": "Cuban Revolution Express",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911100",
+          "longitude": "-79.060545"
         },
         "cuisines": ["Cuban"],
         "year_founded": "2016"
@@ -3191,8 +3180,8 @@
       "restaurant": {
         "name": "One Fish, Two Fish",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910642",
+          "longitude": "-79.067658"
         },
         "cuisines": ["Asian Fusion", "Hawaiian", "Poke"],
         "year_founded": "2017"
@@ -3202,8 +3191,8 @@
       "restaurant": {
         "name": "The Purple Bowl",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911760",
+          "longitude": "-79.059935"
         },
         "cuisines": ["Acai Bowls", "Coffee & Tea", "Breakfast & Brunch"],
         "year_founded": "2017"
@@ -3213,8 +3202,8 @@
       "restaurant": {
         "name": "Oakleaf",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910274",
+          "longitude": "-79.069172"
         },
         "cuisines": ["American"],
         "year_founded": "2018"
@@ -3224,8 +3213,8 @@
       "restaurant": {
         "name": "Benny Cappella's",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913157",
+          "longitude": "-79.054784"
         },
         "cuisines": ["Bar Food", "Pizza"],
         "year_founded": "2016"
@@ -3235,8 +3224,8 @@
       "restaurant": {
         "name": "Insomnia Cookies",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913897",
+          "longitude": "-79.054307"
         },
         "cuisines": ["Desserts"],
         "year_founded": "2013"
@@ -3244,10 +3233,10 @@
     },
     {
       "restaurant": {
-        "name": "Bread & Butter",
+        "name": "Bread & Butter Bakery and Cafe",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910968",
+          "longitude": "-79.064329"
         },
         "cuisines": ["Bakeries", "Coffee & Tea"],
         "year_founded": "2011"
@@ -3257,8 +3246,8 @@
       "restaurant": {
         "name": "Tom Robinson's Seafood",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.909955",
+          "longitude": "-79.070577"
         },
         "cuisines": ["Seafood"],
         "year_founded": "1977"
@@ -3268,8 +3257,8 @@
       "restaurant": {
         "name": "CrossTies Barbecue",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911093",
+          "longitude": "-79.070119"
         },
         "cuisines": ["BBQ"],
         "year_founded": "2016"
@@ -3279,8 +3268,8 @@
       "restaurant": {
         "name": "Acme Food & Beverage Co",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910387",
+          "longitude": "-79.070880"
         },
         "cuisines": ["American", "Breakfast & Brunch", "Southern"],
         "year_founded": "1998"
@@ -3290,8 +3279,8 @@
       "restaurant": {
         "name": "Esperanza",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910713",
+          "longitude": "-79.067316"
         },
         "cuisines": ["Mexican", "Latin American"],
         "year_founded": "2015"
@@ -3301,8 +3290,8 @@
       "restaurant": {
         "name": "Tandem Carrboro",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911510",
+          "longitude": "-79.071753"
         },
         "cuisines": ["American"],
         "year_founded": "2016"
@@ -3312,8 +3301,8 @@
       "restaurant": {
         "name": "Gray Squirrel Coffee Company",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.910523",
+          "longitude": "-79.068119"
         },
         "cuisines": ["Coffee & Tea"],
         "year_founded": "2015"
@@ -3323,8 +3312,8 @@
       "restaurant": {
         "name": "Shaka Shave Ice",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.909282",
+          "longitude": "-79.065137"
         },
         "cuisines": ["Desserts"],
         "year_founded": "2017"
@@ -3334,8 +3323,8 @@
       "restaurant": {
         "name": "Waffle House",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913813",
+          "longitude": "-79.054866"
         },
         "cuisines": ["Breakfast & Brunch", "American", "Diner"],
         "year_founded": "2013"
@@ -3345,8 +3334,8 @@
       "restaurant": {
         "name": "Cold Stone Creamery",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.913816",
+          "longitude": "-79.054809"
         },
         "cuisines": ["Desserts"],
         "year_founded": "2005"
@@ -3356,33 +3345,11 @@
       "restaurant": {
         "name": "B-Side Lounge",
         "location": {
-          "latitude": "",
-          "longitude": "",
+          "latitude": "35.911551",
+          "longitude": "-79.070512"
         },
         "cuisines": ["Tapas"],
         "year_founded": "2014"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Looking Glass Cafe",
-        "location": {
-          "latitude": "",
-          "longitude": "",
-        },
-        "cuisines": ["Desserts", "Coffee & Tea"],
-        "year_founded": "2009"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Twisted Noodles",
-        "location": {
-          "latitude": "",
-          "longitude": "",
-        },
-        "cuisines": ["Thai"],
-        "year_founded": "2009"
       }
     }
   ]
