@@ -57,6 +57,10 @@ select {
   border-radius: 5px;
 }
 
+/* #legendGradient {
+  background: left, rgb(25, 0, 127), rgb(234, 229, 256);
+} */
+
 @media (min-width: 768px) {
   .container {
     margin: 75px auto;
