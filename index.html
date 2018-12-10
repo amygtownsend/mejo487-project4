@@ -8,67 +8,94 @@
   <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
+  <!-- HEADER -->
   <header>
     <h1>Franklin Street Restaurants</h1>
   </header>
+  <!-- STORY CONTENT -->
   <div class="container">
-    <p>Franklin Street is home to over 100 restaurants frequented often by Chapel Hill and Carrboro dwellers as well as UNC students. The collection of restaurants represents a wide range of cuisines, including American, Mexican, Chinese and Indian food. The most popular food to get on Franklin St. are burgers and pizza with 12 burger joints and 11 pizza places to choose from.</p>
+    <p>Franklin Street is home to over 100 restaurants frequented often by Chapel Hill and Carrboro dwellers as well as UNC students. The collection of restaurants represents a wide range of cuisines, including American, Mexican, Chinese and Indian food. The most popular food to get on Franklin St. are pizza and burgers with nine pizza places and ten burger joints to choose from.</p>
     <p>According to the Downtown Chapel Hill Partnership, the number of open businesses on Franklin Street from January 2013 to January 2018 had a retention rate of 75.6 percent for the 5-year period. This means that one-fourth of the restaurants on Franklin St. closed in just five years.</p>
-    <p>There are two restaurants on Franklin Street that are significantly older than any other restaurants: Carolina Coffee Shop and Sutton's Drug Store. Carolina Coffee Shop was founded in 1922 and Sutton's opened shortly afterwards in 1923. Apart from these two, the other restaurants only go back as far as the 1970's, with Ye Olde Waffle Shop, which opened in 1973, as the next oldest restaurant. </p>
+    <p>There are two restaurants on Franklin Street that are significantly older than any other restaurants: Carolina Coffee Shop and Sutton's Drug Store. Carolina Coffee Shop was founded in 1922 and Sutton's opened shortly afterwards in 1923. Apart from these two, the other restaurants only go back as far as the 1970's, with Ye Olde Waffle Shop and McDonald's, which opened in 1973, as the next oldest restaurants. </p>
   </div>
-  <div id="map" style="height: 400px;">
-  <!---Google Map will go here--->
-  </div>
-  <div id="legend">
-    <div id="legendGradient"></div>
-  </div>
-  <div class="filter">
-    <h3>Filter by Cuisine</h3>
-    <select id="type" onchange="filterMarkers(this.value);">
-      <option value="">Please select category</option>
-      <option value="American">American</option>
-      <option value="Asian">Asian</option>
-      <option value="Bar Food">Bar Food</option>
-      <option value="BBQ">BBQ</option>
-      <option value="Breakfast">Breakfast</option>
-      <option value="Burger">Burger</option>
-      <option value="Chinese">Chinese</option>
-      <option value="Coffee and Tea">Coffee and Tea</option>
-      <option value="Desserts">Desserts</option>
-      <option value="Diner">Diner</option>
-      <option value="Fast Food">Fast Food</option>
-      <option value="French">French</option>
-      <option value="Greek">Greek</option>
-      <option value="Indian">Indian</option>
-      <option value="International">International</option>
-      <option value="Italian">Italian</option>
-      <option value="Japanese">Japanese</option>
-      <option value="Lebanese">Lebanese</option>
-      <option value="Mediterranean">Mediterranean</option>
-      <option value="Mexican">Mexican</option>
-      <option value="Middle Eastern">Middle Eastern</option>
-      <option value="Pizza">Pizza</option>
-      <option value="Salad">Salad</option>
-      <option value="Sandwich">Sandwich</option>
-      <option value="Seafood">Seafood</option>
-      <option value="Southern">Southern</option>
-      <option value="Southwestern">Southwestern</option>
-      <option value="Sushi">Sushi</option>
-      <option value="Tapas">Tapas</option>
-      <option value="Tex-Mex">Tex-Mex</option>
-      <option value="Thai">Thai</option>
-      <option value="Turkish">Turkish</option>
-      <option value="Vegetarian">Vegetarian</option>
-      <option value="Vietnamese">Vietnamese</option>
-    </select>
+  <!-- GOOGLE MAP -->
+  <div id="map" style="height: 400px;"></div>
+  <!-- MAP INFO -->
+  <div id="map-info" class="flex">
+    <!-- COLOR LEGEND -->
+    <div class="legend">
+      <h3>Year Opened</h3>
+      <div class="flex">
+        <div id="oldest">1922</div>
+        <div id="legendGradient"></div>
+        <div id="newest">2018</div>
+      </div>
+    </div>
+    <!-- CUISINE FILTER -->
+    <div class="filter">
+      <h3>Filter by Cuisine</h3>
+      <select id="type" onchange="filterMarkers(this.value);">
+        <option value="">Please select category</option>
+        <option value="Acai Bowls">Acai Bowls</option>
+        <option value="American">American</option>
+        <option value="Asian Fusion">Asian Fusion</option>
+        <option value="Bakeries">Bakeries</option>
+        <option value="Bar Food">Bar Food</option>
+        <option value="BBQ">BBQ</option>
+        <option value="Breakfast & Brunch">Breakfast & Brunch</option>
+        <option value="Bubble Tea">Bubble Tea</option>
+        <option value="Burgers">Burgers</option>
+        <option value="Chicken Wings">Chicken Wings</option>
+        <option value="Chinese">Chinese</option>
+        <option value="Cuban">Cuban</option>
+        <option value="Coffee & Tea">Coffee & Tea</option>
+        <option value="Desserts">Desserts</option>
+        <option value="Diner">Diner</option>
+        <option value="Fast Food">Fast Food</option>
+        <option value="French">French</option>
+        <option value="Greek">Greek</option>
+        <option value="Hawaiian">Hawaiian</option>
+        <option value="Hot Dogs">Hot Dogs</option>
+        <option value="Indian">Indian</option>
+        <option value="International">International</option>
+        <option value="Italian">Italian</option>
+        <option value="Japanese">Japanese</option>
+        <option value="Juice Bars & Smoothies">Juice Bars & Smoothies</option>
+        <option value="Korean">Korean</option>
+        <option value="Latin American">Latin American</option>
+        <option value="Lebanese">Lebanese</option>
+        <option value="Mediterranean">Mediterranean</option>
+        <option value="Mexican">Mexican</option>
+        <option value="Middle Eastern">Middle Eastern</option>
+        <option value="Mongolian">Mongolian</option>
+        <option value="Pizza">Pizza</option>
+        <option value="Poke">Poke</option>
+        <option value="Greek">Greek</option>
+        <option value="Salad">Salad</option>
+        <option value="Sandwiches">Sandwiches</option>
+        <option value="Seafood">Seafood</option>
+        <option value="Southern">Southern</option>
+        <option value="Southwestern">Southwestern</option>
+        <option value="Specialty Food">Specialty Food</option>
+        <option value="Sushi">Sushi</option>
+        <option value="Taiwanese">Taiwanese</option>
+        <option value="Tapas">Tapas</option>
+        <option value="Tex-Mex">Tex-Mex</option>
+        <option value="Thai">Thai</option>
+        <option value="Turkish">Turkish</option>
+        <option value="Vegan">Vegan</option>
+        <option value="Vegetarian">Vegetarian</option>
+        <option value="Vietnamese">Vietnamese</option>
+        <option value="Wraps">Wraps</option>
+      </select>
+    </div>
   </div>
   <div class="container">
-    <p>Some of the newest restaurants to join the Franklin Street scene include The Pizza Press, Hops Burger Bar, Midici, Lula's and Cha House. </p>
+    <p>Some of the newest restaurants to join the Franklin Street scene include The Pizza Press, Hops Burger Bar, Midici, Lula's and Cha House.</p>
   </div>
   <footer class="container">
-    <p>Sources: Zomato API, Google Maps API, Yellow Pages</p>
+    <p>Sources: <a href="https://developers.zomato.com/documentation#/">Zomato API</a>, <a href="https://developers.google.com/maps/documentation/javascript/tutorial">Google Maps Javascript API</a>, <a href="https://www.yellowpages.com/">Yellow Pages</a></p>
   </footer>
-
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="js/scripts.js"></script>
   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCscQvyR637VWxxIHjT37qo2EPGKzogoTc&callback=initMap"></script>
