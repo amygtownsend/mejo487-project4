@@ -1938,7 +1938,7 @@
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
         },
-        "cuisines": ["Mexican"],
+        "cuisines": ["Mexican", "Southwestern"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
