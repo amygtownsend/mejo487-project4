@@ -12,8 +12,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9111970000",
-          "longitude": "-79.0612400000",
+          "latitude": "35.911301",
+          "longitude": "-79.061005",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -44,8 +44,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9107360000",
-          "longitude": "-79.0616280000",
+          "latitude": "35.910441",
+          "longitude": "-79.062318",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -76,8 +76,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9130600000",
-          "longitude": "-79.0557500000",
+          "latitude": "35.912946",
+          "longitude": "-79.055358",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -108,8 +108,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9132310000",
-          "longitude": "-79.0560450000",
+          "latitude": "35.913446",
+          "longitude": "-79.056221",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -140,8 +140,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9110100000",
-          "longitude": "-79.0610900000",
+          "latitude": "35.910641",
+          "longitude": "-79.061533",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -172,8 +172,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9111200000",
-          "longitude": "-79.0608000000",
+          "latitude": "35.910032",
+          "longitude": "-79.062844",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -197,15 +197,15 @@
           "res_id": 17054122
         },
         "id": "17054122",
-        "name": "Mama Dip's",
+        "name": "Mama Dip's Kitchen",
         "url": "https://www.zomato.com/research-triangle/mama-dips-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
         "location": {
           "address": "408 W Rosemary St, Chapel Hill 27516",
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9117360000",
-          "longitude": "-79.0627110000",
+          "latitude": "35.911575",
+          "longitude": "-79.063368",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -236,8 +236,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9121850000",
-          "longitude": "-79.0587300000",
+          "latitude": "35.912210",
+          "longitude": "-79.058551",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -268,8 +268,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9115300000",
-          "longitude": "-79.0602500000",
+          "latitude": "35.911747",
+          "longitude": "-79.060164",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -300,8 +300,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9105450000",
-          "longitude": "-79.0629110000",
+          "latitude": "35.910625",
+          "longitude": "-79.062730",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -332,8 +332,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9097400000",
-          "longitude": "-79.0649900000",
+          "latitude": "35.909840",
+          "longitude": "-79.064995",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -396,8 +396,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9102980000",
-          "longitude": "-79.0634220000",
+          "latitude": "35.910238",
+          "longitude": "-79.063752",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -428,8 +428,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9141600000",
-          "longitude": "-79.0536040000",
+          "latitude": "35.914336",
+          "longitude": "-79.053436",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -524,8 +524,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9105510000",
-          "longitude": "-79.0628910000",
+          "latitude": "35.910675",
+          "longitude": "-79.062648",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -588,8 +588,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9132160000",
-          "longitude": "-79.0560370000",
+          "latitude": "35.913418",
+          "longitude": "-79.056113",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -620,8 +620,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9103820000",
-          "longitude": "-79.0629150000",
+          "latitude": "35.910177",
+          "longitude": "-79.062875",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -652,8 +652,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9135710000",
-          "longitude": "-79.0542890000",
+          "latitude": "35.913494",
+          "longitude": "-79.054379",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -677,20 +677,20 @@
           "res_id": 17052892
         },
         "id": "17052892",
-        "name": "B SKI'S - The Wrap ★ Redefined",
+        "name": "B Ski's",
         "url": "https://www.zomato.com/research-triangle/b-skis-the-wrap-redefined-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
         "location": {
           "address": "147 E Franklin St, Chapel Hill 27514",
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9138260000",
-          "longitude": "-79.0542960000",
+          "latitude": "35.913894",
+          "longitude": "-79.054236",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["American", "Sandwiches"],
+        "cuisines": ["American", "Sandwiches", "Fast Food"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -716,8 +716,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9133950000",
-          "longitude": "-79.0547190000",
+          "latitude": "35.913229",
+          "longitude": "-79.054581",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -748,8 +748,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9140320000",
-          "longitude": "-79.0538860000",
+          "latitude": "35.914115",
+          "longitude": "-79.053860",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -780,8 +780,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9131290000",
-          "longitude": "-79.0561420000",
+          "latitude": "35.913252",
+          "longitude": "-79.056352",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -844,8 +844,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9105550000",
-          "longitude": "-79.0628810000",
+          "latitude": "35.910776",
+          "longitude": "-79.062627",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -908,8 +908,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9140540000",
-          "longitude": "-79.0538610000",
+          "latitude": "35.914152",
+          "longitude": "-79.053882",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -940,8 +940,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9115910000",
-          "longitude": "-79.0595880000",
+          "latitude": "35.911403",
+          "longitude": "-79.059575",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -972,8 +972,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9136640000",
-          "longitude": "-79.0578380000",
+          "latitude": "35.913728",
+          "longitude": "-79.057953",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1004,8 +1004,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9103400000",
-          "longitude": "-79.0634830000",
+          "latitude": "35.910242",
+          "longitude": "-79.064007",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1036,8 +1036,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9101965000",
-          "longitude": "-79.0641775000",
+          "latitude": "35.910145",
+          "longitude": "-79.064088",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1100,8 +1100,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9150390000",
-          "longitude": "-79.0531970000",
+          "latitude": "35.915158",
+          "longitude": "-79.053122",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1132,8 +1132,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9137900000",
-          "longitude": "-79.0543500000",
+          "latitude": "35.914248",
+          "longitude": "-79.053313",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1164,8 +1164,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9142957000",
-          "longitude": "-79.0528438000",
+          "latitude": "35.914495",
+          "longitude": "-79.052736",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1196,13 +1196,13 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9117520000",
-          "longitude": "-79.0597700000",
+          "latitude": "35.911783",
+          "longitude": "-79.059869",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["Sandwiches"],
+        "cuisines": ["Sandwiches", "Fast Food"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -1228,8 +1228,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9113783000",
-          "longitude": "-79.0589829000",
+          "latitude": "35.911380",
+          "longitude": "-79.058984",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1260,8 +1260,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9131290000",
-          "longitude": "-79.0561420000",
+          "latitude": "35.913254",
+          "longitude": "-79.056351",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1308,7 +1308,7 @@
           "votes": "16"
         },
         "photos_url": "https://www.zomato.com/research-triangle/asia-cafe-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1991"
+				"year_founded": "closed"
       }
     },
     {
@@ -1324,8 +1324,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9105260000",
-          "longitude": "-79.0628140000",
+          "latitude": "35.910774",
+          "longitude": "-79.062446",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1381,15 +1381,15 @@
           "res_id": 17781323
         },
         "id": "17781323",
-        "name": "Spicy 9",
+        "name": "Spicy 9 Sushi Bar & Asian Restaurant",
         "url": "https://www.zomato.com/research-triangle/spicy-9-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
         "location": {
           "address": "140 W Franklin St, Chapel Hill 27516",
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9127930000",
-          "longitude": "-79.0575945000",
+          "latitude": "35.912653",
+          "longitude": "-79.057433",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1420,8 +1420,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9132253754",
-          "longitude": "-79.0561379492",
+          "latitude": "35.913225",
+          "longitude": "-79.056137",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1452,8 +1452,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9100820000",
-          "longitude": "-79.0639900000",
+          "latitude": "35.910221",
+          "longitude": "-79.063954",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1516,8 +1516,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9115300000",
-          "longitude": "-79.0602500000",
+          "latitude": "35.911494",
+          "longitude": "-79.060462",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1548,8 +1548,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9137960000",
-          "longitude": "-79.0542850000",
+          "latitude": "35.913980",
+          "longitude": "-79.054196",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1580,8 +1580,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9136049000",
-          "longitude": "-79.0555030000",
+          "latitude": "35.913594",
+          "longitude": "-79.055474",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1644,13 +1644,13 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9128640000",
-          "longitude": "-79.0591100000",
+          "latitude": "35.913141",
+          "longitude": "-79.058958",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["American"],
+        "cuisines": ["American", "Bar Food"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -1778,7 +1778,7 @@
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["Greek, Lebanese"],
+        "cuisines": ["Greek, Middle Eastern"],
         "average_cost_for_two": 25,
         "price_range": 2,
         "user_rating": {
@@ -1836,8 +1836,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9093660000",
-          "longitude": "-79.0647460000",
+          "latitude": "35.908789",
+          "longitude": "-79.064487",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -1932,13 +1932,13 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9109700000",
-          "longitude": "-79.0663200000",
+          "latitude": "35.910759",
+          "longitude": "-79.066515",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
         },
-        "cuisines": ["Mexican", "Southwestern"],
+        "cuisines": ["Mexican"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -1957,15 +1957,15 @@
           "res_id": 17054955
         },
         "id": "17054955",
-        "name": "Time-Out",
+        "name": "Time-Out Restaurant",
         "url": "https://www.zomato.com/research-triangle/time-out-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
         "location": {
           "address": "201 E Franklin St, Chapel Hill 27514",
           "locality": "Chapel Hill",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9145573000",
-          "longitude": "-79.0528224000",
+          "latitude": "35.914467",
+          "longitude": "-79.052811",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Chapel Hill, Research Triangle"
@@ -1996,8 +1996,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9112470000",
-          "longitude": "-79.0706862000",
+          "latitude": "35.911666",
+          "longitude": "-79.070644",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2028,8 +2028,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9108920000",
-          "longitude": "-79.0684440000",
+          "latitude": "35.910968",
+          "longitude": "-79.068080",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2092,8 +2092,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9104870000",
-          "longitude": "-79.0719650000",
+          "latitude": "35.910563",
+          "longitude": "-79.071005",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2114,38 +2114,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17053658
-        },
-        "id": "17053658",
-        "name": "Glasshalfull",
-        "url": "https://www.zomato.com/research-triangle/glasshalfull-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "106 S Greensboro St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.9101370000",
-          "longitude": "-79.0724680000",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "3.9",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "72"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/glasshalfull-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2006"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 17055686
         },
         "id": "17055686",
@@ -2156,8 +2124,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9103027000",
-          "longitude": "-79.0721616000",
+          "latitude": "35.910116",
+          "longitude": "-79.072090",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2188,13 +2156,13 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9102390000",
-          "longitude": "-79.0717460000",
+          "latitude": "35.910460",
+          "longitude": "-79.070330",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
         },
-        "cuisines": ["Bar Food", "Southwestern", "Tex-Mex"],
+        "cuisines": ["Tex-Mex"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -2213,15 +2181,15 @@
           "res_id": 17055578
         },
         "id": "17055578",
-        "name": "Breadmen's Restaurant",
+        "name": "Breadmen's",
         "url": "https://www.zomato.com/research-triangle/breadmans-restaurant-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
         "location": {
           "address": "324 W Rosemary St, Chapel Hill 27516",
           "locality": "Chapel Hill",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9124720000",
-          "longitude": "-79.0608560000",
+          "latitude": "35.912517",
+          "longitude": "-79.061049",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Chapel Hill, Research Triangle"
@@ -2252,8 +2220,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9101940000",
-          "longitude": "-79.0720670000",
+          "latitude": "35.910258",
+          "longitude": "-79.071975",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2284,8 +2252,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9108560000",
-          "longitude": "-79.0688760000",
+          "latitude": "35.910874",
+          "longitude": "-79.068909",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2316,8 +2284,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9101890000",
-          "longitude": "-79.0720310000",
+          "latitude": "35.909908",
+          "longitude": "-79.072055",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2348,8 +2316,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9111630000",
-          "longitude": "-79.0720580000",
+          "latitude": "35.911141",
+          "longitude": "-79.071596",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2380,8 +2348,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9112470000",
-          "longitude": "-79.0706862000",
+          "latitude": "35.911231",
+          "longitude": "-79.070645",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2444,8 +2412,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9132524000",
-          "longitude": "-79.0560806000",
+          "latitude": "35.913252",
+          "longitude": "-79.056081",
           "zipcode": "27516",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -2476,8 +2444,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9105770000",
-          "longitude": "-79.0689130000",
+          "latitude": "35.910202",
+          "longitude": "-79.068570",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2508,8 +2476,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9104670000",
-          "longitude": "-79.0721080000",
+          "latitude": "35.910543",
+          "longitude": "-79.071543",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2540,13 +2508,13 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9108770000",
-          "longitude": "-79.0678220000",
+          "latitude": "35.910970",
+          "longitude": "-79.067465",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
         },
-        "cuisines": ["BBQ", "Chicken Wings"],
+        "cuisines": ["BBQ", "Wings"],
         "average_cost_for_two": 40,
         "price_range": 3,
         "user_rating": {
@@ -2604,8 +2572,8 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9115184000",
-          "longitude": "-79.0711771000",
+          "latitude": "35.911631",
+          "longitude": "-79.070745",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2668,13 +2636,13 @@
           "locality": "Carrboro",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9103111000",
-          "longitude": "-79.0708810000",
+          "latitude": "35.910294",
+          "longitude": "-79.067535",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
         },
-        "cuisines": ["American", "Chicken Wings"],
+        "cuisines": ["American", "Wings", "Bar Food"],
         "average_cost_for_two": 25,
         "price_range": 2,
         "user_rating": {
@@ -2685,38 +2653,6 @@
         },
         "photos_url": "https://www.zomato.com/research-triangle/hickory-tavern-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
 				"year_founded": "2013"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17781371
-        },
-        "id": "17781371",
-        "name": "Crunkleton",
-        "url": "https://www.zomato.com/research-triangle/crunkleton-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "320 W Franklin St, Chapel Hill 27516",
-          "locality": "Franklin St",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.9114965000",
-          "longitude": "-79.0607226000",
-          "zipcode": "27516",
-          "country_id": 216,
-          "locality_verbose": "Franklin St, Research Triangle"
-        },
-        "cuisines": ["American", "Bar Food"],
-        "average_cost_for_two": 40,
-        "price_range": 3,
-        "user_rating": {
-          "aggregate_rating": "0",
-          "rating_text": "Not rated",
-          "rating_color": "CBCBC8",
-          "votes": "1"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/crunkleton-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-        "year_founded": "2007"
       }
     },
     {
@@ -2754,38 +2690,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17781147
-        },
-        "id": "17781147",
-        "name": "Bowbarr",
-        "url": "https://www.zomato.com/research-triangle/bowbarr-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "705 W Rosemary St, Chapel Hill 27516",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.9109634000",
-          "longitude": "-79.0661981000",
-          "zipcode": "27516",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Bar Food"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "0",
-          "rating_text": "Not rated",
-          "rating_color": "CBCBC8",
-          "votes": "0"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/bowbarr-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-        "year_founded": "2009"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 17781286
         },
         "id": "17781286",
@@ -2797,7 +2701,7 @@
           "city": "Research Triangle",
           "city_id": 898,
           "latitude": "35.911404",
-          "longitude": "-79.071203",
+          "longitude": "-79.071200",
           "zipcode": "27510",
           "country_id": 216,
           "locality_verbose": "Carrboro, Research Triangle"
@@ -2828,8 +2732,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9133963000",
-          "longitude": "-79.0550633000",
+          "latitude": "35.913149",
+          "longitude": "-79.054877",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -2860,8 +2764,8 @@
           "locality": "Franklin St",
           "city": "Research Triangle",
           "city_id": 898,
-          "latitude": "35.9134416000",
-          "longitude": "-79.0555858000",
+          "latitude": "35.913405",
+          "longitude": "-79.055600",
           "zipcode": "27514",
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
@@ -2883,8 +2787,8 @@
       "restaurant": {
         "name": "MidiCi Italian Kitchen",
         "location": {
-          "latitude": "35.912948",
-          "longitude": "-79.055361"
+          "latitude": "35.913043",
+          "longitude": "-79.055426"
         },
         "cuisines": ["Pizza", "Italian", "Bar Food"],
         "year_founded": "2018"
@@ -2963,7 +2867,7 @@
           "latitude": "35.910815",
           "longitude": "-79.060805"
         },
-        "cuisines": ["Chicken Wings", "Vegan", "Bar Food"],
+        "cuisines": ["Wings", "Vegan", "Bar Food"],
         "year_founded": "2018"
       }
     },
@@ -3139,7 +3043,7 @@
           "latitude": "35.914615",
           "longitude": "-79.052675"
         },
-        "cuisines": ["Korean", "Chicken Wings"],
+        "cuisines": ["Korean", "Wings"],
         "year_founded": "2018"
       }
     },
@@ -3350,6 +3254,61 @@
         },
         "cuisines": ["Tapas"],
         "year_founded": "2014"
+      }
+    },
+    {
+      "restaurant": {
+        "name": "Shanghai Dumplings",
+        "location": {
+          "latitude": "35.913848",
+          "longitude": "-79.054330"
+        },
+        "cuisines": ["Chinese"],
+        "year_founded": "2015"
+      }
+    },
+    {
+      "restaurant": {
+        "name": "Domino's Pizza",
+        "location": {
+          "latitude": "35.909874",
+          "longitude": "-79.066175"
+        },
+        "cuisines": ["Pizza"],
+        "year_founded": "1993"
+      }
+    },
+    {
+      "restaurant": {
+        "name": "Papa John's Pizza",
+        "location": {
+          "latitude": "35.909599",
+          "longitude": "-79.064411"
+        },
+        "cuisines": ["Pizza"],
+        "year_founded": "1997"
+      }
+    },
+    {
+      "restaurant": {
+        "name": "Rise Biscuits & Donuts",
+        "location": {
+          "latitude": "35.910432",
+          "longitude": "-79.069434"
+        },
+        "cuisines": ["Breakfast & Brunch"],
+        "year_founded": "2016"
+      }
+    },
+    {
+      "restaurant": {
+        "name": "Market Street Coffee & Ice Cream",
+        "location": {
+          "latitude": "35.910744",
+          "longitude": "-79.071589"
+        },
+        "cuisines": ["Coffee & Tea", "Desserts"],
+        "year_founded": "2005"
       }
     }
   ]
