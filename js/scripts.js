@@ -90,7 +90,5 @@ function initMap() {
         }
       }
     }
-
-    // initialize();
   }, 1000)
 }
