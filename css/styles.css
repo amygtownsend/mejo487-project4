@@ -1,38 +1,20 @@
-#map {
-  height: 100%;
-}
+/* ELEMENT STYLES */
 
-html, body {
+body, html {
+  font-family: 'Heebo', sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Heebo', sans-serif;
-}
-
-.container {
-  margin: 25px auto;
-  max-width: 940px;
 }
 
 h1, h2, h3, p {
   margin: 0;
 }
 
-header {
-  position: relative;
-  height: 100%;
-  background-image: url(../img/franklinst.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  text-align: center;
-}
-
 h1 {
   color: white;
-  font-size: 2.5em;
   font-family: 'Bungee Shade', serif;
+  font-size: 2.5em;
   font-weight: 400;
   line-height: 1.25em;
   position: absolute;
@@ -40,43 +22,88 @@ h1 {
   transform: translate(0, -50%);
 }
 
-.container p {
-  margin: 0 25px;
-  margin-bottom: 25px;
-  font-size: 1.1em;
+header {
+  background-attachment: fixed;
+  background-image: url(../img/franklinst.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  position: relative;
+  text-align: center;
 }
 
-.filter {
-  text-align: center;
-  padding-top: 15px;
+.container p {
+  font-size: 1.1em;
+  margin: 0 25px;
+  margin-bottom: 25px;
 }
 
 select {
+  border-radius: 5px;
   padding: 5px;
   margin-top: 5px;
-  border-radius: 5px;
 }
 
-/* #legendGradient {
-  background: left, rgb(25, 0, 127), rgb(234, 229, 256);
-} */
+/* CLASS AND ID STYLES */
 
+.container {
+  margin: 25px auto;
+  max-width: 940px;
+}
+
+.flex {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+#map {
+  height: 100%;
+}
+
+#map-info {
+  flex-wrap: wrap;
+  padding: 0 25px;
+}
+
+.legend, .filter {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.legend {
+  flex-basis: 800px;
+  text-align: center;
+}
+
+#legendGradient {
+  background-image: linear-gradient(to right, rgb(25, 0, 127), rgb(234, 229, 256));
+  border: solid 2px black;
+  height: 20px;
+  margin: 0 10px;
+  margin-top: 5px;
+  text-align: center;
+  width: 80%;
+}
+
+.filter {
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* DESKTOP MEDIA QUERY */
 @media (min-width: 768px) {
-  .container {
-    margin: 75px auto;
+  h1 {
+    font-size: 5vw;
   }
 
   .container p {
     margin-bottom: 35px;
   }
 
-  h1 {
-    font-size: 5vw;
-  }
-}
-
-@media (min-width: 1280px) {
-  .container p {
-    font-size: 1.2em;
+  .container {
+    margin: 75px auto;
   }
 }
