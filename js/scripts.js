@@ -117,10 +117,10 @@ console.log(locations);
 // Google maps function
 function initMap() {
   // Location for the center of the interactive map
-  var franklinSt = {lat: 35.912749, lng: -79.0617988};
+  var franklinSt = {lat: 35.912549, lng: -79.0617988};
 
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 16,
+    zoom: 15,
     center: franklinSt,
     mapTypeId: google.maps.MapTypeId.ROADMAP
   });
@@ -173,7 +173,7 @@ function initMap() {
           // Change cuisines array into string joined by commas
           var cuisinesAsString = locations[j][4].join(', ');
           // Info window shows location name, year opened and cuisines on click
-          infowindow.setContent('<h2>' + locations[j][0] + '</h2><p>Year opened: ' + locations[j][3] + '</p>' + '<p>Cuisine(s): ' + cuisinesAsString);
+          infowindow.setContent('<h3>' + locations[j][0] + '</h3><p>Year opened: ' + locations[j][3] + '</p>' + '<p>Cuisine(s): ' + cuisinesAsString);
           infowindow.open(map, marker);
         }
       })(marker, j));
