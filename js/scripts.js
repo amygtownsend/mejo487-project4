@@ -19,13 +19,94 @@ $(function(){
       console.log(restaurants);
       // Loop through each restaurant
       restaurants.forEach(function(restaurant){
-        // Skip closed restaurants
-        if (restaurant.restaurant.year_founded !== "closed") {
-          // Create locations array of restaurant name, latitude, longitude, year opened and array of cuisines
-          locations[i] = [restaurant.restaurant.name, parseFloat(restaurant.restaurant.location.latitude, 10), parseFloat(restaurant.restaurant.location.longitude, 10), restaurant.restaurant.year_founded, restaurant.restaurant.cuisines]
-          i++
+        // Create locations array of restaurant name, latitude, longitude, year opened and array of cuisines
+        locations[i] = [restaurant.restaurant.name, parseFloat(restaurant.restaurant.location.latitude, 10), parseFloat(restaurant.restaurant.location.longitude, 10), restaurant.restaurant.year_founded, restaurant.restaurant.cuisines]
+        i++
+      });
+      // Set custom tick period
+      Taucharts.api.tickPeriod.add("halfDecade", {
+        cast: function (date) {
+          // Get year opened
+          var year = date.getFullYear();
+          // Round year down to nearest half decade
+          var nearestHalfDecade = year - year % 5;
+          // Set tick period to nearest half decade
+          return new Date(date.setFullYear(nearestHalfDecade));
+        },
+        next: function (prevDate) {
+          // Set next tick period to next half decade
+          return new Date(prevDate.setFullYear(prevDate.getFullYear() + 5));
         }
       });
+      // Set custom tick format
+      Taucharts.api.tickFormat.add("halfDecade", function(x) {
+        var d = new Date(x);
+        // Set tick format to half decade, i.e. "2000 - 2014"
+        return (d.getFullYear() + 1) + " - " + (d.getFullYear() + 5);
+      });
+
+      // Create bar chart of number of restaurants that opened in each year
+      var chart = new Taucharts.Chart({
+          guide: {
+            x: {
+              // Set x axis to custom tick period and tick format
+              tickPeriod: 'halfDecade', tickFormat: 'halfDecade',
+              label: {text: 'Time'}
+            },
+            y: {
+              label: {text: 'Restaurant Openings'}
+            },
+            // Set color of bars
+            color: {
+              brewer: ['rgb(25, 0, 127)']
+            }
+          },
+          data: _(restaurants)
+            .chain()
+            .reduce(function (memo, row) {
+              // Initialize year variable as year opened number
+              var year = parseFloat(row.restaurant.year_founded, 10);
+              var nearestHalfDecade = "";
+              // Define nearest half decade variable
+              nearestHalfDecade += year - year % 5;
+              // For restaurants opened in the same half decade...
+        	    memo[nearestHalfDecade] = memo[nearestHalfDecade] || {
+                // Set time as nearestHalfDecade
+            	  time: nearestHalfDecade,
+                // Initialize restaurantOpenings at 0
+            	  restaurantOpenings: 0,
+                // Initialize Restaurants as a string
+                Restaurants: ""
+        	    };
+              // For each restaurant opened in same half decade, increase restaurantOpenings count
+          	  memo[nearestHalfDecade].restaurantOpenings += 1;
+              // For each restaurant opened in same half decade, add name to list of restaurants
+              // Only the first restaurant is listed without a comma and space before it
+              memo[nearestHalfDecade].Restaurants += memo[nearestHalfDecade].Restaurants == "" ? row.restaurant.name : ", " + row.restaurant.name;
+        	  return memo;
+            }, {})
+            .values()
+            .value(),
+          dimensions: {
+            // Set data dimensions
+            'time': { type: 'order', scale: 'time' },
+            'restaurantOpenings': { type: 'measure', scale: 'linear' },
+          },
+          // Bar graph type
+          type: 'bar',
+          // Assign time to x axis
+          x: 'time',
+          // Assign number of restaurant openings to y axis
+          y: 'restaurantOpenings',
+          plugins: [
+            // Display time, number of restaurant openings and list of restaurants on tooltip
+            Taucharts.api.plugins.get('tooltip')({
+              fields: ['time', 'restaurantOpenings', 'Restaurants']
+            })
+          ]
+      });
+      // Render chart
+      chart.renderTo('#chart');
     }
   });
 });
