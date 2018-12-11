@@ -51,7 +51,7 @@ $(function(){
             x: {
               // Set x axis to custom tick period and tick format
               tickPeriod: 'halfDecade', tickFormat: 'halfDecade',
-              label: {text: 'Time'}
+              label: {text: 'Time Period'}
             },
             y: {
               label: {text: 'Restaurant Openings'}
