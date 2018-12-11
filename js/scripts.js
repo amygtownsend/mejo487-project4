@@ -31,7 +31,7 @@ $(function(){
           // Round year down to nearest half decade
           var nearestHalfDecade = year - year % 5;
           // Set tick period to nearest half decade
-          return new Date(date.setFullYear(nearestHalfDecade));
+          return new Date(date.setFullYear(nearestHalfDecade + 4));
         },
         next: function (prevDate) {
           // Set next tick period to next half decade
