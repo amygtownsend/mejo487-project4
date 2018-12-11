@@ -23,8 +23,8 @@ h1 {
 }
 
 header {
-  background-attachment: fixed;
-  background-image: url(../img/franklinst.jpg);
+  background-attachment: scroll;
+  background: url(../img/franklinst.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -68,35 +68,42 @@ select {
 }
 
 .legend, .filter {
-  margin-top: 20px;
+  margin: 0 auto;
   margin-bottom: 5px;
+  margin-top: 20px;
   text-align: center;
 }
 
 .legend {
-  flex-basis: 800px;
+  flex-basis: 750px;
   text-align: center;
-}
-
-#legendGradient {
-  background-image: linear-gradient(to right, rgb(25, 0, 127), rgb(234, 229, 256));
-  border: solid 2px black;
-  height: 20px;
-  margin: 0 10px;
-  margin-top: 5px;
-  text-align: center;
-  width: 80%;
 }
 
 .filter {
-  margin: 0 auto;
-  margin-top: 20px;
+  flex-basis: 250px;
+}
+
+#legendGradient {
+  background: rgb(234, 229, 256);
+  background: -webkit-linear-gradient(left, rgb(25, 0, 127), rgb(234, 229, 256));
+  background: -moz-linear-gradient(left center, rgb(25, 0, 127), rgb(234, 229, 256));
+  background: -o-linear-gradient(left, rgb(25, 0, 127), rgb(234, 229, 256));
+  background: linear-gradient(to right, rgb(25, 0, 127), rgb(234, 229, 256));
+  border: solid 2px black;
+  height: 20px;
+  margin: 0 10px;
+  text-align: center;
+  width: 80%;
 }
 
 /* DESKTOP MEDIA QUERY */
 @media (min-width: 768px) {
   h1 {
     font-size: 5vw;
+  }
+
+  header {
+    background-attachment: fixed;
   }
 
   .container p {
