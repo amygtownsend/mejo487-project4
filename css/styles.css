@@ -98,7 +98,7 @@ select {
   background: linear-gradient(to right, rgb(25, 0, 127), rgb(234, 229, 256));
   border: solid 2px black;
   height: 20px;
-  margin: 0 10px;
+  margin: 5px 10px;
   text-align: center;
   width: 80%;
 }
