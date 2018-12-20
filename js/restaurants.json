@@ -562,7 +562,7 @@
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["American", "Sandwiches", "Fast Food"],
+        "cuisines": ["American", "Wraps", "Fast Food"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -1058,38 +1058,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17055083
-        },
-        "id": "17055083",
-        "name": "West End Wine Bar",
-        "url": "https://www.zomato.com/research-triangle/west-end-wine-bar-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "450 W Franklin St, Chapel Hill 27516",
-          "locality": "Franklin St",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910774",
-          "longitude": "-79.062446",
-          "zipcode": "27516",
-          "country_id": 216,
-          "locality_verbose": "Franklin St, Research Triangle"
-        },
-        "cuisines": ["Coffee & Tea", "Bar Food"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.5",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "16"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/west-end-wine-bar-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1997"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 17781323
         },
         "id": "17781323",
@@ -1218,38 +1186,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17053696
-        },
-        "id": "17053696",
-        "name": "Goodfellows",
-        "url": "https://www.zomato.com/research-triangle/goodfellows-franklin-st?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "149 E Franklin Street 27514",
-          "locality": "Franklin St",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.913980",
-          "longitude": "-79.054196",
-          "zipcode": "27514",
-          "country_id": 216,
-          "locality_verbose": "Franklin St, Research Triangle"
-        },
-        "cuisines": ["Bar Food"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.3",
-          "rating_text": "Average",
-          "rating_color": "CDD614",
-          "votes": "8"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/goodfellows-franklin-st/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1999"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 17057163
         },
         "id": "17057163",
@@ -1266,7 +1202,7 @@
           "country_id": 216,
           "locality_verbose": "Franklin St, Research Triangle"
         },
-        "cuisines": ["American", "Burgers"],
+        "cuisines": ["American", "Burgers", "Bar Food"],
         "average_cost_for_two": 10,
         "price_range": 1,
         "user_rating": {
@@ -1346,38 +1282,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17053185
-        },
-        "id": "17053185",
-        "name": "Carrburritos",
-        "url": "https://www.zomato.com/research-triangle/carrburritos-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "711 Rosemary St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910759",
-          "longitude": "-79.066515",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Mexican"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "4.4",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "219"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/carrburritos-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1997"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 17054955
         },
         "id": "17054955",
@@ -1405,166 +1309,6 @@
         },
         "photos_url": "https://www.zomato.com/research-triangle/time-out-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
 				"year_founded": "1978"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17053543
-        },
-        "id": "17053543",
-        "name": "Elmo's Diner",
-        "url": "https://www.zomato.com/research-triangle/elmos-diner-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "200 N Greensboro St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.911666",
-          "longitude": "-79.070644",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "Breakfast & Brunch", "Diner"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "4.4",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "207"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/elmos-diner-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1991"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17054212
-        },
-        "id": "17054212",
-        "name": "Milltown",
-        "url": "https://www.zomato.com/research-triangle/milltown-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "307 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910968",
-          "longitude": "-79.068080",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "International", "Bar Food"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "4.2",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "107"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/milltown-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2006"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17054792
-        },
-        "id": "17054792",
-        "name": "Spotted Dog Restaurant & Bar",
-        "url": "https://www.zomato.com/research-triangle/spotted-dog-restaurant-bar-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "111 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910563",
-          "longitude": "-79.071005",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "Sandwiches", "Vegetarian"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "3.9",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "83"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/spotted-dog-restaurant-bar-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1998"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17055686
-        },
-        "id": "17055686",
-        "name": "Neal's Deli",
-        "url": "https://www.zomato.com/research-triangle/neals-deli-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "100 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910116",
-          "longitude": "-79.072090",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Sandwiches"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "4.3",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "74"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/neals-deli-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2008"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17052870
-        },
-        "id": "17052870",
-        "name": "Armadillo Grill",
-        "url": "https://www.zomato.com/research-triangle/armadillo-grill-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "120 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910460",
-          "longitude": "-79.070330",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Tex-Mex"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "4.1",
-          "rating_text": "Very Good",
-          "rating_color": "5BA829",
-          "votes": "75"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/armadillo-grill-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1992"
       }
     },
     {
@@ -1602,166 +1346,6 @@
     {
       "restaurant": {
         "R": {
-          "res_id": 17055014
-        },
-        "id": "17055014",
-        "name": "Tyler's Restaurant & Taproom",
-        "url": "https://www.zomato.com/research-triangle/tylers-restaurant-taproom-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "102 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910258",
-          "longitude": "-79.071975",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "Bar Food"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.8",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "63"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/tylers-restaurant-taproom-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2007"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17053699
-        },
-        "id": "17053699",
-        "name": "Gourmet Kingdom",
-        "url": "https://www.zomato.com/research-triangle/gourmet-kingdom-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "301 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910874",
-          "longitude": "-79.068909",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Chinese"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "3.7",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "35"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/gourmet-kingdom-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2003"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17054347
-        },
-        "id": "17054347",
-        "name": "Open Eye Cafe",
-        "url": "https://www.zomato.com/research-triangle/open-eye-cafe-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "100 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.909908",
-          "longitude": "-79.072055",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Coffee & Tea"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.5",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "41"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/open-eye-cafe-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2005"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17053130
-        },
-        "id": "17053130",
-        "name": "Cafe at Weaver Street Market",
-        "url": "https://www.zomato.com/research-triangle/cafe-at-weaver-street-market-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "101 E Weaver St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.911141",
-          "longitude": "-79.071596",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "Coffee & Tea", "Vegetarian"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.8",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "39"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/cafe-at-weaver-street-market-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1987"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17056484
-        },
-        "id": "17056484",
-        "name": "Venable Rotisserie Bistro",
-        "url": "https://www.zomato.com/research-triangle/venable-rotisserie-bistro-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "200 N Greensboro St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.911231",
-          "longitude": "-79.070645",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Burgers", "Sandwiches"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "3.7",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "28"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/venable-rotisserie-bistro-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2012"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
           "res_id": 18534249
         },
         "id": "18534249",
@@ -1789,262 +1373,6 @@
         },
         "photos_url": "https://www.zomato.com/research-triangle/lotsa-stone-fired-pizza-franklin-st/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
 				"year_founded": "2017"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17052826
-        },
-        "id": "17052826",
-        "name": "Amante Gourmet Pizza",
-        "url": "https://www.zomato.com/research-triangle/amante-gourmet-pizza-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "300 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910202",
-          "longitude": "-79.068570",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Italian", "Pizza"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.7",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "26"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/amante-gourmet-pizza-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1991"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17053873
-        },
-        "id": "17053873",
-        "name": "Jade Palace",
-        "url": "https://www.zomato.com/research-triangle/jade-palace-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "103 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910543",
-          "longitude": "-79.071543",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Chinese"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.6",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "24"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/jade-palace-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "1983"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17056072
-        },
-        "id": "17056072",
-        "name": "Wings Over Chapel Hill",
-        "url": "https://www.zomato.com/research-triangle/wings-over-chapel-hill-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "313 E Main St., Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910970",
-          "longitude": "-79.067465",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Wings"],
-        "average_cost_for_two": 40,
-        "price_range": 3,
-        "user_rating": {
-          "aggregate_rating": "3.8",
-          "rating_text": "Good",
-          "rating_color": "9ACD32",
-          "votes": "17"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/wings-over-chapel-hill-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2010"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17056603
-        },
-        "id": "17056603",
-        "name": "Carrboro Pizza Oven",
-        "url": "https://www.zomato.com/research-triangle/carrboro-pizza-oven-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "200 North Greensboro St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.911631",
-          "longitude": "-79.070745",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Pizza"],
-        "average_cost_for_two": 10,
-        "price_range": 1,
-        "user_rating": {
-          "aggregate_rating": "3.4",
-          "rating_text": "Average",
-          "rating_color": "CDD614",
-          "votes": "9"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/carrboro-pizza-oven-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2012"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17057187
-        },
-        "id": "17057187",
-        "name": "Hickory Tavern",
-        "url": "https://www.zomato.com/research-triangle/hickory-tavern-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "370 E Main St, Ste 110, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.910294",
-          "longitude": "-79.067535",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["American", "Wings", "Bar Food"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "2.7",
-          "rating_text": "Average",
-          "rating_color": "FFBA00",
-          "votes": "4"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/hickory-tavern-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-				"year_founded": "2013"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17781113
-        },
-        "id": "17781113",
-        "name": "2nd Wind",
-        "url": "https://www.zomato.com/research-triangle/2nd-wind-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "118 E Main St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.9103469000",
-          "longitude": "-79.0705063000",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Bar Food"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "0",
-          "rating_text": "Not rated",
-          "rating_color": "CBCBC8",
-          "votes": "1"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/2nd-wind-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-        "year_founded": "2012"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17781286
-        },
-        "id": "17781286",
-        "name": "Oasis at Carr Mill",
-        "url": "https://www.zomato.com/research-triangle/oasis-at-carr-mill-carrboro?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "200 N Greensboro St, Carrboro 27510",
-          "locality": "Carrboro",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.911404",
-          "longitude": "-79.071200",
-          "zipcode": "27510",
-          "country_id": 216,
-          "locality_verbose": "Carrboro, Research Triangle"
-        },
-        "cuisines": ["Coffee & Tea"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "0",
-          "rating_text": "Not rated",
-          "rating_color": "CBCBC8",
-          "votes": "0"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/oasis-at-carr-mill-carrboro/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-        "year_founded": "2013"
-      }
-    },
-    {
-      "restaurant": {
-        "R": {
-          "res_id": 17781374
-        },
-        "id": "17781374",
-        "name": "The Library",
-        "url": "https://www.zomato.com/research-triangle/library-chapel-hill?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-        "location": {
-          "address": "120 E Franklin St, Chapel Hill 27514",
-          "locality": "Franklin St",
-          "city": "Research Triangle",
-          "city_id": 898,
-          "latitude": "35.913149",
-          "longitude": "-79.054877",
-          "zipcode": "27514",
-          "country_id": 216,
-          "locality_verbose": "Franklin St, Research Triangle"
-        },
-        "cuisines": ["Bar Food"],
-        "average_cost_for_two": 25,
-        "price_range": 2,
-        "user_rating": {
-          "aggregate_rating": "0",
-          "rating_text": "Not rated",
-          "rating_color": "CBCBC8",
-          "votes": "0"
-        },
-        "photos_url": "https://www.zomato.com/research-triangle/library-chapel-hill/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
-        "year_founded": "2009"
       }
     },
     {
@@ -2086,7 +1414,7 @@
           "latitude": "35.913043",
           "longitude": "-79.055426"
         },
-        "cuisines": ["Pizza", "Italian", "Bar Food"],
+        "cuisines": ["Pizza", "Italian"],
         "year_founded": "2018"
       }
     },
@@ -2163,7 +1491,7 @@
           "latitude": "35.910815",
           "longitude": "-79.060805"
         },
-        "cuisines": ["Wings", "Vegan", "Bar Food"],
+        "cuisines": ["Wings", "Vegan"],
         "year_founded": "2018"
       }
     },
@@ -2279,17 +1607,6 @@
     },
     {
       "restaurant": {
-        "name": "Spike's Hot Chicken and Dogs",
-        "location": {
-          "latitude": "35.910390",
-          "longitude": "-79.067416"
-        },
-        "cuisines": ["Southern", "Hot Dogs"],
-        "year_founded": "2018"
-      }
-    },
-    {
-      "restaurant": {
         "name": "Hibachi & Company",
         "location": {
           "latitude": "35.913976",
@@ -2356,17 +1673,6 @@
     },
     {
       "restaurant": {
-        "name": "Vecino Brewing Co.",
-        "location": {
-          "latitude": "35.910141",
-          "longitude": "-79.068769"
-        },
-        "cuisines": ["Sandwiches"],
-        "year_founded": "2018"
-      }
-    },
-    {
-      "restaurant": {
         "name": "Cuban Revolution Express",
         "location": {
           "latitude": "35.911100",
@@ -2374,17 +1680,6 @@
         },
         "cuisines": ["Cuban"],
         "year_founded": "2016"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "One Fish, Two Fish",
-        "location": {
-          "latitude": "35.910642",
-          "longitude": "-79.067658"
-        },
-        "cuisines": ["Asian Fusion", "Hawaiian", "Poke"],
-        "year_founded": "2017"
       }
     },
     {
@@ -2400,23 +1695,12 @@
     },
     {
       "restaurant": {
-        "name": "Oakleaf",
-        "location": {
-          "latitude": "35.910274",
-          "longitude": "-79.069172"
-        },
-        "cuisines": ["American"],
-        "year_founded": "2018"
-      }
-    },
-    {
-      "restaurant": {
         "name": "Benny Cappella's",
         "location": {
           "latitude": "35.913157",
           "longitude": "-79.054784"
         },
-        "cuisines": ["Bar Food", "Pizza"],
+        "cuisines": ["Pizza"],
         "year_founded": "2016"
       }
     },
@@ -2440,72 +1724,6 @@
         },
         "cuisines": ["Bakeries", "Coffee & Tea"],
         "year_founded": "2011"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Tom Robinson's Seafood",
-        "location": {
-          "latitude": "35.909955",
-          "longitude": "-79.070577"
-        },
-        "cuisines": ["Seafood"],
-        "year_founded": "1977"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "CrossTies Barbecue",
-        "location": {
-          "latitude": "35.911093",
-          "longitude": "-79.070119"
-        },
-        "cuisines": ["BBQ"],
-        "year_founded": "2016"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Acme Food & Beverage Co",
-        "location": {
-          "latitude": "35.910387",
-          "longitude": "-79.070880"
-        },
-        "cuisines": ["American", "Breakfast & Brunch", "Southern"],
-        "year_founded": "1998"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Esperanza",
-        "location": {
-          "latitude": "35.910713",
-          "longitude": "-79.067316"
-        },
-        "cuisines": ["Mexican", "Latin American"],
-        "year_founded": "2015"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Tandem Carrboro",
-        "location": {
-          "latitude": "35.911510",
-          "longitude": "-79.071753"
-        },
-        "cuisines": ["American"],
-        "year_founded": "2016"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Gray Squirrel Coffee Company",
-        "location": {
-          "latitude": "35.910523",
-          "longitude": "-79.068119"
-        },
-        "cuisines": ["Coffee & Tea"],
-        "year_founded": "2015"
       }
     },
     {
@@ -2543,17 +1761,6 @@
     },
     {
       "restaurant": {
-        "name": "B-Side Lounge",
-        "location": {
-          "latitude": "35.911551",
-          "longitude": "-79.070512"
-        },
-        "cuisines": ["Tapas"],
-        "year_founded": "2014"
-      }
-    },
-    {
-      "restaurant": {
         "name": "Shanghai Dumplings",
         "location": {
           "latitude": "35.913848",
@@ -2561,17 +1768,6 @@
         },
         "cuisines": ["Chinese"],
         "year_founded": "2015"
-      }
-    },
-    {
-      "restaurant": {
-        "name": "Domino's Pizza",
-        "location": {
-          "latitude": "35.909874",
-          "longitude": "-79.066175"
-        },
-        "cuisines": ["Pizza"],
-        "year_founded": "1993"
       }
     },
     {
@@ -2587,24 +1783,24 @@
     },
     {
       "restaurant": {
-        "name": "Rise Biscuits & Donuts",
+        "name": "Imbibe",
         "location": {
-          "latitude": "35.910432",
-          "longitude": "-79.069434"
+          "latitude": "35.914796",
+          "longitude": "-79.052900"
         },
-        "cuisines": ["Breakfast & Brunch"],
+        "cuisines": ["American", "Bar Food"],
         "year_founded": "2016"
       }
     },
     {
       "restaurant": {
-        "name": "Market Street Coffee & Ice Cream",
+        "name": "The Northside District",
         "location": {
-          "latitude": "35.910744",
-          "longitude": "-79.071589"
+          "latitude": "35.911458",
+          "longitude": "-79.062525"
         },
-        "cuisines": ["Coffee & Tea", "Desserts"],
-        "year_founded": "2005"
+        "cuisines": ["Bar Food"],
+        "year_founded": "2015"
       }
     }
   ]
