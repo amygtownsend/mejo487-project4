@@ -117,7 +117,7 @@ console.log(locations);
 // Google maps function
 function initMap() {
   // Location for the center of the interactive map
-  var franklinSt = {lat: 35.912549, lng: -79.0617988};
+  var franklinSt = {lat: 35.912549, lng: -79.058939};
 
   var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 15,
