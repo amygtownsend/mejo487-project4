@@ -130,4 +130,8 @@ select {
   .container {
     margin: 75px auto;
   }
+
+  #map {
+    height: 400px;
+  }
 }
