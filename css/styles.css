@@ -110,11 +110,18 @@ select {
   height: 300px;
   margin: 0 auto;
   max-width: 95%;
-  padding-left: 25px;
+  padding: 0 5px;
+}
+
+.tau-chart__layout__content, .tau-chart__layout__sidebar-right {
+  padding: 0!important;
+}
+
+svg.tau-chart__svg {
+  margin: 0 auto;
 }
 
 .tau-chart__tooltip {
-  left: 25px!important;
   max-width: 90%;
 }
 
@@ -144,7 +151,14 @@ select {
     height: 400px;
   }
 
-  .tauchart__tooltip {
-    left: inherit!important;
+  #chart {
+    padding: 0 25px;
+  }
+}
+
+/* MOBILE MEDIA QUERY */
+@media (max-width: 768px) {
+  .tau-chart__tooltip {
+    left: 25px!important;
   }
 }
