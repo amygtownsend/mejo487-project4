@@ -34,7 +34,11 @@ document.addEventListener("DOMContentLoaded", function () {
     Taucharts.api.tickFormat.add("halfDecade", function (x) {
       var d = new Date(x);
       // Set tick format to half decade, i.e. "2000 - 2014"
-      return (d.getFullYear() + 1) + " - " + (d.getFullYear() + 5);
+      if (d.getFullYear() + 5 !== 2019) {
+        return (d.getFullYear() + 1) + " - " + (d.getFullYear() + 5);
+      } else {
+        return (d.getFullYear() + 1) + " - " + (d.getFullYear() + 4);
+      };
     });
 
     // Create bar chart of number of restaurants that opened in each year
@@ -97,8 +101,10 @@ document.addEventListener("DOMContentLoaded", function () {
         })
       ]
     });
+
     // Render chart
     chart.renderTo('#chart');
+
     return locations;
   }).then((locations) => {
 
