@@ -113,6 +113,15 @@ select {
   padding-left: 25px;
 }
 
+.tauchart__tooltip {
+  left: 25px!important;
+  max-width: 90%;
+}
+
+.tau-chart__tooltip__button.i-role-exclude {
+  display: none;
+}
+
 /* DESKTOP MEDIA QUERY */
 @media (min-width: 768px) {
   h1 {
@@ -133,5 +142,9 @@ select {
 
   #map {
     height: 400px;
+  }
+
+  .tauchart__tooltip {
+    left: inherit!important;
   }
 }
