@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
           brewer: ['rgb(25, 0, 127)']
         }
       },
-      data: _(restaurants)
+      data: _(data)
         .chain()
         .reduce(function (memo, row) {
           // Initialize year variable as year opened number
