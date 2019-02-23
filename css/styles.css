@@ -21,13 +21,23 @@ h1 {
   transform: translate(0, -50%);
 }
 
-h2, h4 {
+h2, h3, h4 {
   text-align: center;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.5em;
+  line-height: 1.2em;
   padding: 10px;
 }
 
 h4 {
+  font-size: 1em;
+  line-height: 1.3em;
+  padding: 10px;
   padding-top: 0;
+  font-weight: 400;
 }
 
 header {
