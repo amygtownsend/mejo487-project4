@@ -113,7 +113,7 @@ select {
   padding-left: 25px;
 }
 
-.tauchart__tooltip {
+.tau-chart__tooltip {
   left: 25px!important;
   max-width: 90%;
 }
