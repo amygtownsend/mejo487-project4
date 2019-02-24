@@ -19,9 +19,7 @@ h1 {
   font-weight: 400;
   line-height: 1.25em;
   margin: 0;
-  position: absolute;
-  top: 50%;
-  transform: translate(0, -50%);
+  padding-bottom: 25px;
 }
 
 h2, h3 {
@@ -62,6 +60,13 @@ header {
   position: relative;
 }
 
+header p {
+  color: white;
+  font-size: 1.5em;
+  line-height: 1.25em;
+  font-weight: 700;
+}
+
 .container p {
   font-size: 1.1em;
   margin-bottom: 25px;
@@ -71,6 +76,25 @@ select {
   border-radius: 5px;
   padding: 5px;
   margin-top: 5px;
+}
+
+a {
+  color: rgb(65, 35, 187);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+header a {
+  color: rgb(200, 185, 255);
+}
+
+a:hover {
+  color: rgb(34, 8, 136);
+}
+
+header a:hover {
+  color: white;
+  text-decoration: underline;
 }
 
 /* CLASS AND ID STYLES */
@@ -87,6 +111,24 @@ select {
   text-align: center;
   top: 0;
   width: 100%;
+}
+
+.background-image::before {
+  background-color: rgba(14,0,66,.6);
+  background: radial-gradient(rgba(14,0,66,.7), rgba(14,0,66,.4));
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.overlay-text {
+  padding: 25px 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
 }
 
 .container {
