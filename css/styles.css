@@ -67,6 +67,10 @@ header p {
   font-weight: 700;
 }
 
+#map p, #map h3 {
+  margin: 0;
+}
+
 .container p {
   font-size: 1.1em;
   margin-bottom: 25px;
