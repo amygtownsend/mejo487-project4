@@ -50,14 +50,9 @@ h4 {
 }
 
 header {
-  background-attachment: scroll;
-  background: url(../img/franklinst.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-  position: relative;
+  height: 100vh;
   text-align: center;
+  position: relative;
 }
 
 .container p {
@@ -74,8 +69,22 @@ select {
 
 /* CLASS AND ID STYLES */
 
+.background-image {
+  background-attachment: scroll;
+  background: url(../img/franklinst.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+
 .container {
-  margin: 25px auto;
+  margin: 35px auto;
   max-width: 940px;
 }
 
@@ -135,12 +144,12 @@ select {
   padding: 0 5px;
 }
 
-.tau-chart__layout__content, .tau-chart__layout__sidebar-right {
-  padding: 0!important;
-}
-
 svg.tau-chart__svg {
   margin: 0 auto;
+}
+
+.tau-chart__layout__content, .tau-chart__layout__sidebar-right {
+  padding: 0!important;
 }
 
 .tau-chart__tooltip {
@@ -157,7 +166,7 @@ svg.tau-chart__svg {
     font-size: 5vw;
   }
 
-  header {
+  .background-image {
     background-attachment: fixed;
   }
 
